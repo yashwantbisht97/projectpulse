@@ -10,4 +10,6 @@ public class ProjectPulseApplication {
 		SpringApplication.run(ProjectPulseApplication.class, args);
 	}
 
+//CommandLineRunner implement here i have to manage this for persist database table value 
+
 }
